@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <!-- Meta tag per dispositivi mobili -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Roots of Umbria</title>
+  <!-- Webfont: Roboto -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f7f7f7;
+    }
+    header {
+      text-align: center;
+      padding: 20px 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    header img {
+      max-width: 180px;
+      height: auto;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+      color: #333;
+      width: 100%;
+      text-align: center;
+    }
+    h2 {
+      margin-top: 5px;
+      font-size: 1.2em;
+      color: #555;
+      width: 100%;
+      text-align: center;
+      font-style: italic;
+    }
+    .content {
+      max-width: 800px;
+      margin: 20px auto;
+      background: white;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    .credits {
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #555;
+      text-align: center;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #0078A8;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    a.button:hover {
+      background: #005f86;
+    }
+    /* Responsive adjustments */
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+      }
+      header img {
+        max-width: 140px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+      h2 {
+        font-size: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Logo del progetto e logo della scuola affiancati -->
+    <img src="logo.png" alt="Logo Roots of Umbria">
+    <a href="https://www.casagrandecesi.edu.it/" target="_blank">
+      <img src="cc.png" alt="IIS Casagrande-Cesi di Terni">
+    </a>
+    <h1>Roots of Umbria</h1>
+    <h2>Il cammino degli alberi monumentali</h2>
+  </header>
+  <div class="content">
+    <p><strong>Roots of Umbria</strong> è un progetto che valorizza il patrimonio naturale e culturale dell'Umbria, focalizzandosi sul cammino degli alberi monumentali. Attraverso l’utilizzo degli open data forniti dalla Regione Umbria (<a href="https://dati.regione.umbria.it" target="_blank" style="color:#0078A8; text-decoration: none;">dati.regione.umbria.it</a>), la piattaforma raccoglie e integra informazioni dettagliate su questi alberi, permettendo agli utenti di esplorare i percorsi e scoprire le storie dietro ogni esemplare.</p>
+    <p>Il progetto è nato come iniziativa didattica dell'<a href="https://www.casagrandecesi.edu.it/" target="_blank" style="color:#0078A8; text-decoration: none; font-weight:500;">IIS "Casagrande-Cesi" di Terni</a> ed è stato sviluppato nell'ambito del <a href="https://ternifestival.unipg.it/" target="_blank" style="color:#0078A8; text-decoration: none; font-weight:500;">Terni Festival 2024-25</a>.</p>
+    <p>Oltre a fornire dettagli sugli alberi monumentali, Roots of Umbria mostra anche le strutture ricettive e i luoghi della cultura presenti nei dintorni, offrendo così una visione completa del territorio e favorendo percorsi esperienziali che uniscono natura, storia e accoglienza.</p>
+    <div class="credits">
+      <p>&copy; Roots of Umbria 2024 - Progetto didattico dell'IIS "Casagrande-Cesi" di Terni.</p>
+    </div>
+    <a class="button" href="index.html">Torna alla Mappa</a>
+  </div>
+</body>
+</html>

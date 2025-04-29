@@ -1,0 +1,3791 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "alberi_regione.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65079469,
+                    43.06307252
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "002",
+                "cod_com": 54001,
+                "comune": "ASSISI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2328717,
+                "ygb": 4770510,
+                "localita": "EREMO DELLE CARCERI",
+                "foglio": 129,
+                "particella": "28",
+                "specie": "LECCIO",
+                "circonf": 360,
+                "circonf_de": "360",
+                "alt": 21,
+                "alt_des": "21",
+                "l_chioma": 16,
+                "l_chioma_d": "15,7",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DELL'EREMO DELLE CARCERI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60173402,
+                    42.55154676
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "097",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2323105,
+                "ygb": 4713816,
+                "localita": "SABBIONE",
+                "foglio": 100,
+                "particella": "400",
+                "specie": "ROVERELLA",
+                "circonf": 360,
+                "circonf_de": "360",
+                "alt": 11,
+                "alt_des": "11",
+                "l_chioma": 26,
+                "l_chioma_d": "26",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI SABBIONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.34202293,
+                    42.63726487
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "003",
+                "cod_com": 55033,
+                "comune": "AVIGLIANO UMBRO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2302080,
+                "ygb": 4723972,
+                "localita": "SANTA RESTITUTA",
+                "foglio": 55,
+                "particella": "66",
+                "specie": "ACERO OPALO",
+                "circonf": 0,
+                "circonf_de": "non rilevata",
+                "alt": 0,
+                "alt_des": "non rilevata",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ACERO OPALO DI SANTA RESTITUTA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93839326,
+                    42.76946686
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "014",
+                "cod_com": 54010,
+                "comune": "CERRETO DI SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2351337,
+                "ygb": 4737288,
+                "localita": "PENTIMENTO",
+                "foglio": 64,
+                "particella": "78A",
+                "specie": "ROVERELLA",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI PENTIMENTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73857324,
+                    42.74494629
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "074",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2334915,
+                "ygb": 4734984,
+                "localita": "VIA FRATELLI CERVI",
+                "foglio": 165,
+                "particella": "94",
+                "specie": "PLATANO",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PLATANO DI VIA FRATELLI CERVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23698652,
+                    43.456755
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "021",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2296466,
+                "ygb": 4815261,
+                "localita": "PIAZZA GABRIOTTI",
+                "foglio": 147,
+                "particella": "STRADA",
+                "specie": "IPPOCASTANO",
+                "circonf": 390,
+                "circonf_de": "390",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "IPPOCASTANO DI PIAZZA GABRIOTTI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.29522519,
+                    42.90198126
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "067",
+                "cod_com": 55030,
+                "comune": "SAN VENANZO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2299186,
+                "ygb": 4753492,
+                "localita": "CIVITELLA DEI CONTI",
+                "foglio": 28,
+                "particella": "99",
+                "specie": "ROVERE",
+                "circonf": 386,
+                "circonf_de": "386",
+                "alt": 14.5,
+                "alt_des": "14,5",
+                "l_chioma": 19,
+                "l_chioma_d": "19",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERE DI CIVITELLA DEI CONTI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37117596,
+                    43.17634499
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "063",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2306342,
+                "ygb": 4783766,
+                "localita": "VALBIANCARA - VOC. FORCELLA",
+                "foglio": 117,
+                "particella": "3",
+                "specie": "ROVERELLA",
+                "circonf": 580,
+                "circonf_de": "580",
+                "alt": 14,
+                "alt_des": "14",
+                "l_chioma": 28.8,
+                "l_chioma_d": "28,8",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VALBIANCARA - VOC. FORCELLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94937193,
+                    43.13965621
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "013",
+                "cod_com": 54009,
+                "comune": "CASTIGLIONE DEL LAGO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2271908,
+                "ygb": 4780855,
+                "localita": "PENTIMENTO",
+                "foglio": 19,
+                "particella": "A",
+                "specie": "ROVERELLA",
+                "circonf": 370,
+                "circonf_de": "370",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI PENTIMENTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19102998,
+                    43.45683183
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "022",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2292748,
+                "ygb": 4815394,
+                "localita": "CA DEL BALDO",
+                "foglio": 142,
+                "particella": "504",
+                "specie": "ROVERELLA",
+                "circonf": 350,
+                "circonf_de": "350",
+                "alt": 14,
+                "alt_des": "14",
+                "l_chioma": 22,
+                "l_chioma_d": "22",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CA DEL BALDO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65217416,
+                    43.06296578
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "001",
+                "cod_com": 54001,
+                "comune": "ASSISI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2328829,
+                "ygb": 4770495,
+                "localita": "EREMO DELLE CARCERI",
+                "foglio": 129,
+                "particella": "29",
+                "specie": "LECCIO",
+                "circonf": 200,
+                "circonf_de": "200",
+                "alt": 5,
+                "alt_des": "5",
+                "l_chioma": 4,
+                "l_chioma_d": "4",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DELL'EREMO DELLE CARCERI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4924647,
+                    42.98384045
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "004",
+                "cod_com": 54003,
+                "comune": "BETTONA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2315561,
+                "ygb": 4762084,
+                "localita": "MONTE CINQUE QUERCE",
+                "foglio": 38,
+                "particella": "16",
+                "specie": "TIGLIO",
+                "circonf": 362,
+                "circonf_de": "362",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 17,
+                "l_chioma_d": "17",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "TIGLIO DI MONTE CINQUE QUERCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.974315,
+                    42.72557015
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "005",
+                "cod_com": 54007,
+                "comune": "CASCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2354159,
+                "ygb": 4732342,
+                "localita": "CAPANNE DI COLLEGIACONE",
+                "foglio": 36,
+                "particella": "50",
+                "specie": "ROVERELLA",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CAPANNE DI COLLEGIACONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96713397,
+                    42.7139616
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "006",
+                "cod_com": 54007,
+                "comune": "CASCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2353540,
+                "ygb": 4731067,
+                "localita": "ROCCAPORENA",
+                "foglio": 46,
+                "particella": "140",
+                "specie": "ROVERELLA",
+                "circonf": 415,
+                "circonf_de": "415",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI ROCCAPORENA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22519456,
+                    43.45191339
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "016",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295494,
+                "ygb": 4814755,
+                "localita": "VILLA MONTESCA",
+                "foglio": 153,
+                "particella": "68",
+                "specie": "ABETE DI SPAGNA",
+                "circonf": 350,
+                "circonf_de": "350",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 16.5,
+                "l_chioma_d": "16,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ABETE DI SPAGNA DI VILLA MONTESCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22407036,
+                    43.45136387
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "017",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295401,
+                "ygb": 4814697,
+                "localita": "VILLA MONTESCA",
+                "foglio": 153,
+                "particella": "68",
+                "specie": "CEDRO DELL",
+                "circonf": 390,
+                "circonf_de": "390",
+                "alt": 30,
+                "alt_des": "30",
+                "l_chioma": 21,
+                "l_chioma_d": "21",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DELL DI VILLA MONTESCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98277604,
+                    42.72667785
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "008",
+                "cod_com": 55009,
+                "comune": "CASTEL GIORGIO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2272978,
+                "ygb": 4734891,
+                "localita": "CITERNO",
+                "foglio": 4,
+                "particella": "10",
+                "specie": "ROVERELLA",
+                "circonf": 0,
+                "circonf_de": "non rilevata",
+                "alt": 0,
+                "alt_des": "non rilevata",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CITERNO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05124226,
+                    43.07408859
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "012",
+                "cod_com": 54009,
+                "comune": "CASTIGLIONE DEL LAGO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2279937,
+                "ygb": 4773276,
+                "localita": "S. FATUCCHIO - VOC. ZUCCONAMI",
+                "foglio": 107,
+                "particella": "77",
+                "specie": "ROVERELLA",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI S. FATUCCHIO - VOC. ZUCCONAMI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05082258,
+                    42.75554303
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "007",
+                "cod_com": 54007,
+                "comune": "CASCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2360500,
+                "ygb": 4735523,
+                "localita": "AVENDITA",
+                "foglio": 21,
+                "particella": "113",
+                "specie": "ROVERELLA",
+                "circonf": 440,
+                "circonf_de": "440",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DELL'AVENDITA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98138897,
+                    42.71725873
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "009",
+                "cod_com": 55009,
+                "comune": "CASTEL GIORGIO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2272827,
+                "ygb": 4733849,
+                "localita": "PODERE CASTELLANA",
+                "foglio": 11,
+                "particella": "31",
+                "specie": "CIPRESSO DI MONTEREY",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 18,
+                "l_chioma_d": "18",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CIPRESSO DI MONTEREY DI PODERE CASTELLANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67707228,
+                    42.82074068
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "010",
+                "cod_com": 54008,
+                "comune": "CASTEL RITALDI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2330113,
+                "ygb": 4743538,
+                "localita": "IST. COMPRENSIVO CASTELRITALDI",
+                "foglio": 17,
+                "particella": "329",
+                "specie": "PINO DOMESTICO",
+                "circonf": 350,
+                "circonf_de": "350",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 15,
+                "l_chioma_d": "15",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PINO DOMESTICO DELL'IST. COMPRENSIVO CASTELRITALDI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91517029,
+                    42.85319566
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "015",
+                "cod_com": 54010,
+                "comune": "CERRETO DI SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2349667,
+                "ygb": 4746633,
+                "localita": "BUGGIANO",
+                "foglio": 7,
+                "particella": "159",
+                "specie": "ROVERELLA",
+                "circonf": 480,
+                "circonf_de": "480",
+                "alt": 14,
+                "alt_des": "14",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI BUGGIANO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22262765,
+                    43.45183301
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "019",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295286,
+                "ygb": 4814753,
+                "localita": "VILLA MONTESCA",
+                "foglio": 153,
+                "particella": "52",
+                "specie": "CIPRESSO",
+                "circonf": 530,
+                "circonf_de": "530",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 17,
+                "l_chioma_d": "17",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CIPRESSO DI VILLA MONTESCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22532542,
+                    43.45202461
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "020",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295505,
+                "ygb": 4814767,
+                "localita": "VILLA MONTESCA",
+                "foglio": 153,
+                "particella": "68",
+                "specie": "CUPRESSUS MACROCARPA",
+                "circonf": 530,
+                "circonf_de": "530",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 14,
+                "l_chioma_d": "14",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CUPRESSUS MACROCARPA DI VILLA MONTESCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25252546,
+                    43.5207491
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "023",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2297958,
+                "ygb": 4822327,
+                "localita": "SAN GIOVANNI",
+                "foglio": 47,
+                "particella": "23",
+                "specie": "ROVERELLA",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 22,
+                "l_chioma_d": "22",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI SAN GIOVANNI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.27453196,
+                    43.42244349
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "024",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2299379,
+                "ygb": 4811350,
+                "localita": "VILLA SAN DONINO",
+                "foglio": 199,
+                "particella": "1",
+                "specie": "ROVERELLA",
+                "circonf": 500,
+                "circonf_de": "500",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 26,
+                "l_chioma_d": "26",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VILLA SAN DONINO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22477606,
+                    43.45268654
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "025",
+                "cod_com": 54013,
+                "comune": "CITTA' DI CASTELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295463,
+                "ygb": 4814842,
+                "localita": "VILLA MONTESCA",
+                "foglio": 153,
+                "particella": "68",
+                "specie": "SOFORA",
+                "circonf": 180,
+                "circonf_de": "180",
+                "alt": 40,
+                "alt_des": "40",
+                "l_chioma": 4,
+                "l_chioma_d": "4",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "SOFORA DI VILLA MONTESCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84772118,
+                    42.65207628
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "026",
+                "cod_com": 55012,
+                "comune": "FERENTILLO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2343586,
+                "ygb": 4724437,
+                "localita": "TERRIA",
+                "foglio": 14,
+                "particella": "81",
+                "specie": "ROVERELLA",
+                "circonf": 450,
+                "circonf_de": "450",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI TERRIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07041543,
+                    42.80393455
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "027",
+                "cod_com": 55013,
+                "comune": "FICULLE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2280452,
+                "ygb": 4743218,
+                "localita": "SALA",
+                "foglio": 37,
+                "particella": "58",
+                "specie": "CEDRO DELL",
+                "circonf": 320,
+                "circonf_de": "320",
+                "alt": 19,
+                "alt_des": "19",
+                "l_chioma": 18,
+                "l_chioma_d": "18",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DELL DI SALA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.04493807,
+                    42.86587693
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "028",
+                "cod_com": 55013,
+                "comune": "FICULLE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2278610,
+                "ygb": 4750170,
+                "localita": "CODONE",
+                "foglio": 1,
+                "particella": "200",
+                "specie": "FARNIA",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 32,
+                "alt_des": "32",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FARNIA DI CODONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15535435,
+                    42.73023339
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "051",
+                "cod_com": 54035,
+                "comune": "NORCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2368993,
+                "ygb": 4732520,
+                "localita": "NOTTORIA",
+                "foglio": 196,
+                "particella": "339",
+                "specie": "ROVERELLA",
+                "circonf": 520,
+                "circonf_de": "520",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 32,
+                "l_chioma_d": "32",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI NOTTORIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09077074,
+                    42.91161373
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "047",
+                "cod_com": 55020,
+                "comune": "MONTEGABBIONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2282530,
+                "ygb": 4755119,
+                "localita": "PODERE BOSCHETTO",
+                "foglio": 15,
+                "particella": "102",
+                "specie": "LECCIO",
+                "circonf": 445,
+                "circonf_de": "445",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 22,
+                "l_chioma_d": "22",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI PODERE BOSCHETTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.14078207,
+                    42.89449723
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "048",
+                "cod_com": 55020,
+                "comune": "MONTEGABBIONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2286548,
+                "ygb": 4753078,
+                "localita": "PIAN DI BORGONE",
+                "foglio": 36,
+                "particella": "61",
+                "specie": "ROVERELLA",
+                "circonf": 450,
+                "circonf_de": "450",
+                "alt": 19,
+                "alt_des": "19",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI PIAN DI BORGONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59572512,
+                    42.456445
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "049",
+                "cod_com": 55022,
+                "comune": "NARNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2322312,
+                "ygb": 4703269,
+                "localita": "SACRO SPECO",
+                "foglio": 177,
+                "particella": "017",
+                "specie": "CASTAGNO",
+                "circonf": 625,
+                "circonf_de": "625",
+                "alt": 19,
+                "alt_des": "19",
+                "l_chioma": 15,
+                "l_chioma_d": "15",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CASTAGNO DI SACRO SPECO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15689462,
+                    42.73142884
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "050",
+                "cod_com": 54035,
+                "comune": "NORCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2369122,
+                "ygb": 4732650,
+                "localita": "NOTTORIA",
+                "foglio": 196,
+                "particella": "185",
+                "specie": "ROVERELLA",
+                "circonf": 370,
+                "circonf_de": "370",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 23,
+                "l_chioma_d": "23",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI NOTTORIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14717394,
+                    42.75595449
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "054",
+                "cod_com": 54035,
+                "comune": "NORCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2368386,
+                "ygb": 4735391,
+                "localita": "S. PELLEGRINO - VOC. CARICAIA",
+                "foglio": 169,
+                "particella": "793",
+                "specie": "ROVERELLA",
+                "circonf": 430,
+                "circonf_de": "430",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI S. PELLEGRINO - VOC. CARICAIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12737997,
+                    42.74290843
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "052",
+                "cod_com": 54035,
+                "comune": "NORCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2366734,
+                "ygb": 4733978,
+                "localita": "VALCALDARA - VOC. BADIA",
+                "foglio": 180,
+                "particella": "250",
+                "specie": "ROVERELLA",
+                "circonf": 405,
+                "circonf_de": "405",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VALCALDARA - VOC. BADIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25291548,
+                    42.91202127
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "066",
+                "cod_com": 55030,
+                "comune": "SAN VENANZO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2295768,
+                "ygb": 4754719,
+                "localita": "PODERE BORGO",
+                "foglio": 11,
+                "particella": "106",
+                "specie": "LECCIO",
+                "circonf": 262,
+                "circonf_de": "262",
+                "alt": 19.5,
+                "alt_des": "19,5",
+                "l_chioma": 13.5,
+                "l_chioma_d": "13,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI PODERE BORGO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39514221795729,
+                    43.10253784334499
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "061",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2308035,
+                "ygb": 4775508,
+                "localita": "S. PIETRO",
+                "foglio": 253,
+                "particella": "74",
+                "specie": "LECCIO",
+                "circonf": 360,
+                "circonf_de": "360",
+                "alt": 13,
+                "alt_des": "13",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "Regione Umbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI S. PIETRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75924523,
+                    43.27755884
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "034",
+                "cod_com": 54019,
+                "comune": "FOSSATO DI VICO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2338186,
+                "ygb": 4794089,
+                "localita": "PALAZZOLO - VOC. PIAZZETTA",
+                "foglio": 33,
+                "particella": "STRADA",
+                "specie": "SOFORA",
+                "circonf": 310,
+                "circonf_de": "310",
+                "alt": 11,
+                "alt_des": "11",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "SOFORA DI PALAZZOLO - VOC. PIAZZETTA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65367093,
+                    42.89572156
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "045",
+                "cod_com": 54030,
+                "comune": "MONTEFALCO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2328432,
+                "ygb": 4751918,
+                "localita": "MONTEFALCO",
+                "foglio": 22,
+                "particella": "STRADA",
+                "specie": "CEDRO DELL",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DELL DI MONTEFALCO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38616103,
+                    43.10401758
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "062",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2307397,
+                "ygb": 4775833,
+                "localita": "SANTA GIULIANA",
+                "foglio": 253,
+                "particella": "F",
+                "specie": "LECCIO",
+                "circonf": 340,
+                "circonf_de": "340",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 20.5,
+                "l_chioma_d": "20,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI SANTA GIULIANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.06671167,
+                    42.84810472
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "030",
+                "cod_com": 55013,
+                "comune": "FICULLE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2280320,
+                "ygb": 4748134,
+                "localita": "SANTOMANNO",
+                "foglio": 11,
+                "particella": "46",
+                "specie": "ROVERELLA",
+                "circonf": 430,
+                "circonf_de": "430",
+                "alt": 26,
+                "alt_des": "26",
+                "l_chioma": 25,
+                "l_chioma_d": "25",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI SANTOMANNO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15411647,
+                    42.75589556
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "053",
+                "cod_com": 54035,
+                "comune": "NORCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2368954,
+                "ygb": 4735372,
+                "localita": "S. PELLEGRINO - VOC. CARICAIA",
+                "foglio": 170,
+                "particella": "99",
+                "specie": "ROVERELLA",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI S. PELLEGRINO - VOC. CARICAIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70876485,
+                    42.95633092
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "033",
+                "cod_com": 54018,
+                "comune": "FOLIGNO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2333114,
+                "ygb": 4758525,
+                "localita": "VIA OBERDAN",
+                "foglio": 157,
+                "particella": "45",
+                "specie": "TIGLIO",
+                "circonf": 310,
+                "circonf_de": "310",
+                "alt": 10,
+                "alt_des": "10",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "TIGLIO DI VIA OBERDAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58780842,
+                    42.84604261
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "036",
+                "cod_com": 54021,
+                "comune": "GIANO DELL'UMBRIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2322896,
+                "ygb": 4746553,
+                "localita": "MACCIANO",
+                "foglio": 14,
+                "particella": "285",
+                "specie": "OLIVO",
+                "circonf": 740,
+                "circonf_de": "740",
+                "alt": 5,
+                "alt_des": "5",
+                "l_chioma": 8.5,
+                "l_chioma_d": "8,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "OLIVO DI MACCIANO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56801429,
+                    42.84340848
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "035",
+                "cod_com": 54021,
+                "comune": "GIANO DELL'UMBRIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2321270,
+                "ygb": 4746307,
+                "localita": "ABBAZIA S. FELICE",
+                "foglio": 12,
+                "particella": "160",
+                "specie": "LECCIO",
+                "circonf": 480,
+                "circonf_de": "480",
+                "alt": 13,
+                "alt_des": "13",
+                "l_chioma": 12,
+                "l_chioma_d": "12",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DELL'ABBAZIA S. FELICE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78846407,
+                    43.23061318
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "037",
+                "cod_com": 54023,
+                "comune": "GUALDO TADINO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2340419,
+                "ygb": 4788812,
+                "localita": "CENTRO ABITATO",
+                "foglio": 65,
+                "particella": "466",
+                "specie": "BAGOLARO",
+                "circonf": 420,
+                "circonf_de": "420",
+                "alt": 15.5,
+                "alt_des": "15,5",
+                "l_chioma": 15,
+                "l_chioma_d": "15",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "BAGOLARO DI CENTRO ABITATO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77151721,
+                    43.23203992
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "038",
+                "cod_com": 54023,
+                "comune": "GUALDO TADINO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2339047,
+                "ygb": 4789007,
+                "localita": "VOC. TOMAIOLO - STAZIONE",
+                "foglio": 61,
+                "particella": "807",
+                "specie": "ROVERELLA",
+                "circonf": 400,
+                "circonf_de": "400",
+                "alt": 18.4,
+                "alt_des": "18,4",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VOC. TOMAIOLO - STAZIONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28944897,
+                    42.62626198
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "039",
+                "cod_com": 55015,
+                "comune": "GUARDEA",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2297730,
+                "ygb": 4722887,
+                "localita": "ONTORELLO",
+                "foglio": 12,
+                "particella": "209",
+                "specie": "ROVERELLA",
+                "circonf": 450,
+                "circonf_de": "450",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DELL'ONTORELLO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57851701,
+                    43.3450316
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "040",
+                "cod_com": 54024,
+                "comune": "GUBBIO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2323738,
+                "ygb": 4801992,
+                "localita": "PIAGGIOLA - V. FRATE LUPO",
+                "foglio": 227,
+                "particella": "90",
+                "specie": "FARNIA",
+                "circonf": 450,
+                "circonf_de": "450",
+                "alt": 20.5,
+                "alt_des": "20,5",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FARNIA DI PIAGGIOLA - V. FRATE LUPO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16647504,
+                    43.13421404
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "041",
+                "cod_com": 54026,
+                "comune": "MAGIONE",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2289545,
+                "ygb": 4779630,
+                "localita": "CASTELLO DI ZOCCO",
+                "foglio": 35,
+                "particella": "414",
+                "specie": "PINO DOMESTICO",
+                "circonf": 451,
+                "circonf_de": "451",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 18,
+                "l_chioma_d": "18",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PINO DOMESTICO DI CASTELLO DI ZOCCO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17425156,
+                    43.14394173
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "042",
+                "cod_com": 54026,
+                "comune": "MAGIONE",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2290214,
+                "ygb": 4780689,
+                "localita": "MONTE COLOGNOLA",
+                "foglio": 26,
+                "particella": "337",
+                "specie": "ROVERELLA",
+                "circonf": 440,
+                "circonf_de": "440",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI MONTE COLOGNOLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13321009,
+                    42.76895855
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "055",
+                "cod_com": 55023,
+                "comune": "ORVIETO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2285455,
+                "ygb": 4739157,
+                "localita": "MORRANO NUOVO",
+                "foglio": 51,
+                "particella": "122",
+                "specie": "PINO DOMESTICO",
+                "circonf": 308,
+                "circonf_de": "308",
+                "alt": 28,
+                "alt_des": "28",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PINO DOMESTICO DI MORRANO NUOVO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.08256775,
+                    42.70223446
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "056",
+                "cod_com": 55028,
+                "comune": "ORVIETO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2281055,
+                "ygb": 4731889,
+                "localita": "BUONVIAGGIO",
+                "foglio": 179,
+                "particella": "151",
+                "specie": "ROVERELLA",
+                "circonf": 565,
+                "circonf_de": "565",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI BUONVIAGGIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11708637,
+                    42.86294581
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "057",
+                "cod_com": 55025,
+                "comune": "PARRANO",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2284493,
+                "ygb": 4749640,
+                "localita": "SAN GABRIELE",
+                "foglio": 15,
+                "particella": "172",
+                "specie": "CASTAGNO",
+                "circonf": 730,
+                "circonf_de": "730",
+                "alt": 9.8,
+                "alt_des": "9,8",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CASTAGNO DI SAN GABRIELE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43470994,
+                    43.12899513
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "058",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2311345,
+                "ygb": 4778347,
+                "localita": "PONTE FELCINO",
+                "foglio": 220,
+                "particella": "315",
+                "specie": "CIPRESSO",
+                "circonf": 456,
+                "circonf_de": "456",
+                "alt": 23,
+                "alt_des": "23",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CIPRESSO DI PONTE FELCINO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45512046,
+                    43.1256515
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "059",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2312994,
+                "ygb": 4777925,
+                "localita": "MONTESCOSSO",
+                "foglio": 223,
+                "particella": "3",
+                "specie": "LECCIO",
+                "circonf": 270,
+                "circonf_de": "270",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI MONTESCOSSO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35304621,
+                    43.15517236
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "060",
+                "cod_com": 54039,
+                "comune": "PERUGIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2304794,
+                "ygb": 4781461,
+                "localita": "CENERENTE",
+                "foglio": 146,
+                "particella": "55",
+                "specie": "LECCIO",
+                "circonf": 357,
+                "circonf_de": "357",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI CENERENTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22379777,
+                    43.56086752
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "064",
+                "cod_com": 54044,
+                "comune": "SAN GIUSTINO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2295785,
+                "ygb": 4826860,
+                "localita": "VALDIMONTE",
+                "foglio": 29,
+                "particella": "192",
+                "specie": "ROVERELLA",
+                "circonf": 440,
+                "circonf_de": "440",
+                "alt": 22,
+                "alt_des": "22",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VALDIMONTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57244544,
+                    42.78680971
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "044b",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2321451,
+                "ygb": 4740011,
+                "localita": "SAN PIETRO IN MONTE",
+                "foglio": 49,
+                "particella": "30",
+                "specie": "FAGGIO",
+                "circonf": 810,
+                "circonf_de": "810",
+                "alt": 24,
+                "alt_des": "24",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FAGGIO DI SAN PIETRO IN MONTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57178571,
+                    42.78711087
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "044d",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2321398,
+                "ygb": 4740046,
+                "localita": "SAN PIETRO IN MONTE",
+                "foglio": 49,
+                "particella": "30",
+                "specie": "FAGGIO",
+                "circonf": 810,
+                "circonf_de": "810",
+                "alt": 24,
+                "alt_des": "24",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FAGGIO DI SAN PIETRO IN MONTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57170292,
+                    42.78735224
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "044c",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2321392,
+                "ygb": 4740073,
+                "localita": "SAN PIETRO IN MONTE",
+                "foglio": 49,
+                "particella": "30",
+                "specie": "FAGGIO",
+                "circonf": 810,
+                "circonf_de": "810",
+                "alt": 24,
+                "alt_des": "24",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FAGGIO DI SAN PIETRO IN MONTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57189680722364,
+                    42.78677105211292
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "044a",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2321406,
+                "ygb": 4740008,
+                "localita": "SAN PIETRO IN MONTE",
+                "foglio": 49,
+                "particella": "30",
+                "specie": "FAGGIO",
+                "circonf": 810,
+                "circonf_de": "810",
+                "alt": 24,
+                "alt_des": "24",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "Regione Umbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FAGGIO DI SAN PIETRO IN MONTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95635085,
+                    42.90037565
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "069",
+                "cod_com": 54048,
+                "comune": "SELLANO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2353159,
+                "ygb": 4751790,
+                "localita": "PIAGGIARELLA",
+                "foglio": 44,
+                "particella": "122",
+                "specie": "ROVERELLA",
+                "circonf": 0,
+                "circonf_de": "non rilevata",
+                "alt": 0,
+                "alt_des": "non rilevata",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI PIAGGIARELLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83031968,
+                    42.88043318
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "068",
+                "cod_com": 54048,
+                "comune": "SELLANO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2342812,
+                "ygb": 4749833,
+                "localita": "S. PATERNIANO",
+                "foglio": 59,
+                "particella": "21",
+                "specie": "FAGGIO",
+                "circonf": 495,
+                "circonf_de": "495",
+                "alt": 17,
+                "alt_des": "17",
+                "l_chioma": 15,
+                "l_chioma_d": "15",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FAGGIO DI S. PATERNIANO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.407645054712317,
+                    42.78189836227024
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "102",
+                "cod_com": 54052,
+                "comune": "TODI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2307954,
+                "ygb": 4739867,
+                "localita": "CENTRO TODI",
+                "foglio": 96,
+                "particella": "556",
+                "specie": "CIPRESSO",
+                "circonf": 245,
+                "circonf_de": "245",
+                "alt": 30,
+                "alt_des": "30",
+                "l_chioma": 3,
+                "l_chioma_d": "3",
+                "utente": "Regione Umbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CIPRESSO DI CENTRO TODI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75892726,
+                    42.8756264
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "106",
+                "cod_com": 54054,
+                "comune": "TREVI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2336967,
+                "ygb": 4749452,
+                "localita": "CIMITERO DI TREVI",
+                "foglio": 43,
+                "particella": "STRADA",
+                "specie": "LECCIO",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 10,
+                "alt_des": "10",
+                "l_chioma": 15,
+                "l_chioma_d": "15",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI CIMITERO DI TREVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74942416,
+                    42.86188795
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "108",
+                "cod_com": 54054,
+                "comune": "TREVI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2336150,
+                "ygb": 4747947,
+                "localita": "BOVARA",
+                "foglio": 45,
+                "particella": "586",
+                "specie": "OLIVO",
+                "circonf": 910,
+                "circonf_de": "910",
+                "alt": 6,
+                "alt_des": "6",
+                "l_chioma": 8.2,
+                "l_chioma_d": "8,2",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "OLIVO DI BOVARA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75879203,
+                    42.87564176
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "107",
+                "cod_com": 54054,
+                "comune": "TREVI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2336956,
+                "ygb": 4749454,
+                "localita": "CIMITERO DI TREVI",
+                "foglio": 43,
+                "particella": "STRADA",
+                "specie": "LECCIO",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 8,
+                "alt_des": "8",
+                "l_chioma": 12,
+                "l_chioma_d": "12",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI CIMITERO DI TREVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39422634,
+                    42.7806481
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "103",
+                "cod_com": 54052,
+                "comune": "TODI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2306852,
+                "ygb": 4739762,
+                "localita": "MONASTERO DI MONTESANTO",
+                "foglio": 95,
+                "particella": "A",
+                "specie": "TIGLIO",
+                "circonf": 590,
+                "circonf_de": "590",
+                "alt": 14,
+                "alt_des": "14",
+                "l_chioma": 19,
+                "l_chioma_d": "19",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "TIGLIO DI MONASTERO DI MONTESANTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35203351,
+                    42.79658996
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "101",
+                "cod_com": 54052,
+                "comune": "TODI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2303456,
+                "ygb": 4741640,
+                "localita": "PALAZZACCIO",
+                "foglio": 68,
+                "particella": "14",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 390,
+                "circonf_de": "390",
+                "alt": 17,
+                "alt_des": "17",
+                "l_chioma": 25,
+                "l_chioma_d": "25",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DI PALAZZACCIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75900965,
+                    42.87571806
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "105",
+                "cod_com": 54054,
+                "comune": "TREVI",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2336974,
+                "ygb": 4749462,
+                "localita": "CIMITERO DI TREVI",
+                "foglio": 43,
+                "particella": "STRADA",
+                "specie": "LECCIO",
+                "circonf": 420,
+                "circonf_de": "420",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI CIMITERO DI TREVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65940144,
+                    42.56169092
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "100",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2327871,
+                "ygb": 4714810,
+                "localita": "VILLA CENTURINI",
+                "foglio": 119,
+                "particella": "105",
+                "specie": "TIGLIO",
+                "circonf": 335,
+                "circonf_de": "335",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 15.4,
+                "l_chioma_d": "15,4",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "TIGLIO DI VILLA CENTURINI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63234689,
+                    42.56715904
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "099",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2325667,
+                "ygb": 4715479,
+                "localita": "CIMITERO",
+                "foglio": 105,
+                "particella": "A",
+                "specie": "TASSO",
+                "circonf": 145,
+                "circonf_de": "145",
+                "alt": 8,
+                "alt_des": "8",
+                "l_chioma": 7.7,
+                "l_chioma_d": "7,7",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "TASSO DI CIMITERO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71280467,
+                    42.57734907
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "096",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2332302,
+                "ygb": 4716429,
+                "localita": "CAPRIANO - COLLESTATTE",
+                "foglio": 93,
+                "particella": "171",
+                "specie": "ROVERELLA",
+                "circonf": 345,
+                "circonf_de": "345",
+                "alt": 15.3,
+                "alt_des": "15,3",
+                "l_chioma": 19,
+                "l_chioma_d": "19",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CAPRIANO - COLLESTATTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71844858,
+                    42.54854662
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "095",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2332679,
+                "ygb": 4713218,
+                "localita": "CAMPACCI DI MARMORE",
+                "foglio": 165,
+                "particella": "144",
+                "specie": "ROVERELLA",
+                "circonf": 360,
+                "circonf_de": "360",
+                "alt": 17.5,
+                "alt_des": "17,5",
+                "l_chioma": 30,
+                "l_chioma_d": "30",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CAMPACCI DI MARMORE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68048292,
+                    42.58908071
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "094",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2329685,
+                "ygb": 4717804,
+                "localita": "SAN BARTOLOMEO",
+                "foglio": 74,
+                "particella": "35",
+                "specie": "ROVERELLA",
+                "circonf": 430,
+                "circonf_de": "430",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI SAN BARTOLOMEO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64232239,
+                    42.55944951
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "093",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326462,
+                "ygb": 4714600,
+                "localita": "GIARDINI DELLA PASSEGGIATA",
+                "foglio": 114,
+                "particella": "111",
+                "specie": "PLATANO",
+                "circonf": 430,
+                "circonf_de": "430",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 20.8,
+                "l_chioma_d": "20,8",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PLATANO DI GIARDINI DELLA PASSEGGIATA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75404478,
+                    42.53673326
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "092",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2335567,
+                "ygb": 4711828,
+                "localita": "PIAZZA DELLA RESISTENZA",
+                "foglio": 170,
+                "particella": "STRADA",
+                "specie": "PLATANO",
+                "circonf": 440,
+                "circonf_de": "440",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 23,
+                "l_chioma_d": "23",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PLATANO DI PIAZZA DELLA RESISTENZA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58492248,
+                    42.61096794
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "091",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2321913,
+                "ygb": 4720454,
+                "localita": "CESI - S. ONOFRIO",
+                "foglio": 42,
+                "particella": "21",
+                "specie": "PINO DOMESTICO",
+                "circonf": 210,
+                "circonf_de": "210",
+                "alt": 22,
+                "alt_des": "22",
+                "l_chioma": 6,
+                "l_chioma_d": "6",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PINO DOMESTICO DI CESI - S. ONOFRIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.14245889,
+                    42.89478225
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "046",
+                "cod_com": 55020,
+                "comune": "MONTEGABBIONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2286686,
+                "ygb": 4753105,
+                "localita": "PIAN DI BORGONE",
+                "foglio": 36,
+                "particella": "64",
+                "specie": "FRASSINO OSSIFILLO",
+                "circonf": 370,
+                "circonf_de": "370",
+                "alt": 14,
+                "alt_des": "14",
+                "l_chioma": 18,
+                "l_chioma_d": "18",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "FRASSINO OSSIFILLO DI PIAN DI BORGONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64505904,
+                    42.56376516
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "089",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326700,
+                "ygb": 4715073,
+                "localita": "PIAZZA DELL OLMO 1",
+                "foglio": 116,
+                "particella": "STRADA",
+                "specie": "OLMO",
+                "circonf": 155,
+                "circonf_de": "155",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 14.9,
+                "l_chioma_d": "14,9",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "OLMO DI PIAZZA DELL OLMO 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57206614,
+                    42.63874608
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "086",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2320947,
+                "ygb": 4723569,
+                "localita": "SENTIERO PER EREMITA DI CESI",
+                "foglio": 13,
+                "particella": "47",
+                "specie": "LECCIO",
+                "circonf": 200,
+                "circonf_de": "200",
+                "alt": 17,
+                "alt_des": "17",
+                "l_chioma": 7,
+                "l_chioma_d": "7",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI SENTIERO PER EREMITA DI CESI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63916461,
+                    42.57663792
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "085",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326256,
+                "ygb": 4716516,
+                "localita": "VILLA PALMA",
+                "foglio": 85,
+                "particella": "176",
+                "specie": "JUBAEA CHILENSIS",
+                "circonf": 416,
+                "circonf_de": "416",
+                "alt": 12,
+                "alt_des": "12",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "JUBAEA CHILENSIS DI VILLA PALMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6324916,
+                    42.56591034
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "084",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2325675,
+                "ygb": 4715340,
+                "localita": "CIMITERO",
+                "foglio": 105,
+                "particella": "A",
+                "specie": "CEDRO HIMALAYA",
+                "circonf": 340,
+                "circonf_de": "340",
+                "alt": 25.5,
+                "alt_des": "25,5",
+                "l_chioma": 21.5,
+                "l_chioma_d": "21,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO HIMALAYA DI CIMITERO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64237341,
+                    42.5597117
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "082",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326467,
+                "ygb": 4714629,
+                "localita": "GIARDINI DELLA PASSEGGIATA",
+                "foglio": 114,
+                "particella": "111",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 340,
+                "circonf_de": "340",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 19.5,
+                "l_chioma_d": "19,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DI GIARDINI DELLA PASSEGGIATA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.79",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64225472,
+                    42.55995239
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "081",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326458,
+                "ygb": 4714656,
+                "localita": "GIARDINI DELLA PASSEGGIATA",
+                "foglio": 114,
+                "particella": "111",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 340,
+                "circonf_de": "340",
+                "alt": 22,
+                "alt_des": "22",
+                "l_chioma": 20.4,
+                "l_chioma_d": "20,4",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DI GIARDINI DELLA PASSEGGIATA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.78",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57654598,
+                    42.64021874
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "080",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2321319,
+                "ygb": 4723722,
+                "localita": "EREMITA DI CESI",
+                "foglio": 13,
+                "particella": "3",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 300,
+                "circonf_de": "300",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 10,
+                "l_chioma_d": "10",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DELL'EREMITA DI CESI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64694554,
+                    42.55862609
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "079",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326839,
+                "ygb": 4714498,
+                "localita": "CORSO DEL POPOLO",
+                "foglio": 115,
+                "particella": "370",
+                "specie": "BAGOLARO",
+                "circonf": 292,
+                "circonf_de": "292",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 14,
+                "l_chioma_d": "14",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "BAGOLARO DI CORSO DEL POPOLO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60650015,
+                    42.46568473
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "078",
+                "cod_com": 55031,
+                "comune": "STRONCONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2323227,
+                "ygb": 4704270,
+                "localita": "VASCIANO",
+                "foglio": 46,
+                "particella": "16",
+                "specie": "ROVERELLA",
+                "circonf": 500,
+                "circonf_de": "500",
+                "alt": 18,
+                "alt_des": "18",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI VASCIANO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70196464,
+                    42.49659114
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "077",
+                "cod_com": 55031,
+                "comune": "STRONCONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2331169,
+                "ygb": 4707485,
+                "localita": "CIMITELLE",
+                "foglio": 18,
+                "particella": "136",
+                "specie": "CERRO SUGHERA",
+                "circonf": 200,
+                "circonf_de": "200",
+                "alt": 10,
+                "alt_des": "10",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CERRO SUGHERA DI CIMITELLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69649077,
+                    42.49653522
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "076",
+                "cod_com": 55031,
+                "comune": "STRONCONE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2330719,
+                "ygb": 4707491,
+                "localita": "CIMITELLE",
+                "foglio": 18,
+                "particella": "36",
+                "specie": "CASTAGNO",
+                "circonf": 865,
+                "circonf_de": "865",
+                "alt": 13,
+                "alt_des": "13",
+                "l_chioma": 14.6,
+                "l_chioma_d": "14,6",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CASTAGNO DI CIMITELLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73437324,
+                    42.73112195
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "075",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2334530,
+                "ygb": 4733458,
+                "localita": "VIALE MATTEOTTI",
+                "foglio": 304,
+                "particella": "239",
+                "specie": "SEQUOIA",
+                "circonf": 350,
+                "circonf_de": "350",
+                "alt": 30,
+                "alt_des": "30",
+                "l_chioma": 8,
+                "l_chioma_d": "8",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "SEQUOIA DI VIALE MATTEOTTI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74035045,
+                    42.74411693
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "073",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2335058,
+                "ygb": 4734888,
+                "localita": "VILLA REDENTA",
+                "foglio": 165,
+                "particella": "105",
+                "specie": "LECCIO",
+                "circonf": 410,
+                "circonf_de": "410",
+                "alt": 25,
+                "alt_des": "25",
+                "l_chioma": 23,
+                "l_chioma_d": "23",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI VILLA REDENTA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75095776,
+                    42.72444329
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "072",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2335868,
+                "ygb": 4732680,
+                "localita": "MONTELUCO",
+                "foglio": 194,
+                "particella": "102",
+                "specie": "LECCIO",
+                "circonf": 350,
+                "circonf_de": "350",
+                "alt": 13,
+                "alt_des": "13",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI MONTELUCO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66402395,
+                    42.99926856
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "070",
+                "cod_com": 54050,
+                "comune": "SPELLO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2329597,
+                "ygb": 4763394,
+                "localita": "VILLA FIDELIA",
+                "foglio": 35,
+                "particella": "318",
+                "specie": "CIPRESSO",
+                "circonf": 380,
+                "circonf_de": "380",
+                "alt": 20,
+                "alt_des": "20",
+                "l_chioma": 10,
+                "l_chioma_d": "10",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CIPRESSO DI VILLA FIDELIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74117975,
+                    42.74449349
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "071",
+                "cod_com": 54051,
+                "comune": "SPOLETO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2335127,
+                "ygb": 4734928,
+                "localita": "VILLA REDENTA",
+                "foglio": 165,
+                "particella": "105",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 630,
+                "circonf_de": "630",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 40,
+                "l_chioma_d": "40",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "CEDRO DI VILLA REDENTA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64498939,
+                    42.56367368
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "090",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326694,
+                "ygb": 4715063,
+                "localita": "PIAZZA DELL OLMO 2",
+                "foglio": 116,
+                "particella": "STRADA",
+                "specie": "OLMO",
+                "circonf": 168,
+                "circonf_de": "168",
+                "alt": 17.5,
+                "alt_des": "17,5",
+                "l_chioma": 11.8,
+                "l_chioma_d": "11,8",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "OLMO DI PIAZZA DELL OLMO 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64461379,
+                    42.55747055
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "088",
+                "cod_com": 55032,
+                "comune": "TERNI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2326644,
+                "ygb": 4714375,
+                "localita": "GIARDINI DELLA ANNUNZIATA",
+                "foglio": 115,
+                "particella": "STRADA",
+                "specie": "LECCIO",
+                "circonf": 230,
+                "circonf_de": "230",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 15,
+                "l_chioma_d": "14,5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI GIARDINI DELLA ANNUNZIATA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.06667756,
+                    42.84804982
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "029",
+                "cod_com": 55013,
+                "comune": "FICULLE",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2280317,
+                "ygb": 4748128,
+                "localita": "SANTOMANNO",
+                "foglio": 11,
+                "particella": "46",
+                "specie": "ROVERELLA",
+                "circonf": 420,
+                "circonf_de": "420",
+                "alt": 26,
+                "alt_des": "26",
+                "l_chioma": 20,
+                "l_chioma_d": "20",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI SANTOMANNO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69945457,
+                    42.95483842
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "032",
+                "cod_com": 54018,
+                "comune": "FOLIGNO",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2332350,
+                "ygb": 4758380,
+                "localita": "VIALE MARCONI",
+                "foglio": 155,
+                "particella": "352",
+                "specie": "PINO DOMESTICO",
+                "circonf": 320,
+                "circonf_de": "320",
+                "alt": 15,
+                "alt_des": "15",
+                "l_chioma": 24,
+                "l_chioma_d": "24",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "PINO DOMESTICO DI VIALE MARCONI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04597603,
+                    42.75112005
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "163",
+                "cod_com": 54007,
+                "comune": "CASCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2360092,
+                "ygb": 4735041,
+                "localita": "AVENDITA",
+                "foglio": 21,
+                "particella": "202",
+                "specie": "ROVERELLA",
+                "circonf": 0,
+                "circonf_de": "non rilevata",
+                "alt": 0,
+                "alt_des": "non rilevata",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DELL'AVENDITA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04920568,
+                    42.75255288
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "162",
+                "cod_com": 54007,
+                "comune": "CASCIA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2360360,
+                "ygb": 4735194,
+                "localita": "AVENDITA",
+                "foglio": 21,
+                "particella": "457",
+                "specie": "IPPOCASTANO",
+                "circonf": 0,
+                "circonf_de": "non rilevata",
+                "alt": 0,
+                "alt_des": "non rilevata",
+                "l_chioma": 0,
+                "l_chioma_d": "non rilevata",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "IPPOCASTANO DELL'AVENDITA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28427424,
+                    42.70982816
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "161",
+                "cod_com": 55007,
+                "comune": "BASCHI",
+                "cod_prov": "055",
+                "prov": "TR",
+                "xgb": 2297604,
+                "ygb": 4732181,
+                "localita": "CIVITELLA",
+                "foglio": 30,
+                "particella": "205",
+                "specie": "ROVERELLA",
+                "circonf": 230,
+                "circonf_de": "230",
+                "alt": 23,
+                "alt_des": "23",
+                "l_chioma": 18,
+                "l_chioma_d": "18",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "ROVERELLA DI CIVITELLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76827757,
+                    43.07060287
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "113",
+                "cod_com": 54059,
+                "comune": "VALTOPINA",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2338306,
+                "ygb": 4771085,
+                "localita": "CANEPINE",
+                "foglio": 14,
+                "particella": "101",
+                "specie": "GINEPRO",
+                "circonf": 122,
+                "circonf_de": "122",
+                "alt": 8,
+                "alt_des": "8",
+                "l_chioma": 5,
+                "l_chioma_d": "5",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "GINEPRO DI CANEPINE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36906543,
+                    43.35031516
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "110",
+                "cod_com": 54056,
+                "comune": "UMBERTIDE",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2306779,
+                "ygb": 4803093,
+                "localita": "SAN LEO",
+                "foglio": 15,
+                "particella": "41",
+                "specie": "LECCIO",
+                "circonf": 400,
+                "circonf_de": "400",
+                "alt": 16,
+                "alt_des": "16",
+                "l_chioma": 23,
+                "l_chioma_d": "23",
+                "utente": "regioneumbria",
+                "stato": "APPROVATO",
+                "note": null,
+                "nome": "LECCIO DI SAN LEO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alberi_regione.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35098975,
+                    43.26607172
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "id_albero": "109",
+                "cod_com": 54056,
+                "comune": "UMBERTIDE",
+                "cod_prov": "054",
+                "prov": "PG",
+                "xgb": 2305017,
+                "ygb": 4793783,
+                "localita": "EREMO MONTE CORONA",
+                "foglio": 122,
+                "particella": "16",
+                "specie": "CEDRO DEL LIBANO",
+                "circonf": 430,
+                "circonf_de": "430",
+                "alt": 22,
+                "alt_des": "22",
+                "l_chioma": 22,
+                "l_chioma_d": "22",
+                "utente": "ataschini@regione.umbria.it",
+                "stato": "APPROVATO",
+                "note": "GRANDE BRANCA SECCAGINOSA",
+                "nome": "CEDRO DELL'EREMO MONTE CORONA"
+            }
+        }
+    ],
+    "crs": {
+        "type": "EPSG",
+        "properties": {
+            "code": "4326"
+        }
+    }
+}
